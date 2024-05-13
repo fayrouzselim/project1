@@ -1,0 +1,4 @@
+as_number: '2'
+neighbor_as: '6'
+neighbor_ip: '4'
+router_id: '5'

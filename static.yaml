@@ -1,0 +1,3 @@
+destination_network: 1.1.1.1
+exit_interface: eth1/1
+subnet_mask: 255.255.255.0

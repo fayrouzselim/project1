@@ -1,0 +1,5 @@
+area_id: '1'
+network_address: 2.2.2.2
+process_id: '1'
+router_id: 1.1.1.1
+wild_card_mask: '255'
